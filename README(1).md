@@ -132,7 +132,7 @@ This one's a bit different. It asks you three questions and then writes a short 
 git clone https://github.com/nooblyxmad/oss-audit-24BCY10077-
 
 # Go into the folder
-cd oss-audit-24BCY10077-
+cd ossaudit24BSA10087-
 
 # Make all scripts executable
 chmod +x *.sh
