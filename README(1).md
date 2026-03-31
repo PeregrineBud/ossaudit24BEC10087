@@ -6,8 +6,8 @@ This is my audit project for the Open Source Software course. I chose Git as my 
 
 ## About Me
 
-- **Name:** Priyansh Bhatt
-- **Registration Number:** 24BCY10077
+- **Name:** Ayush Raghav
+- **Registration Number:** 24BEC10087
 - **Course:** Open Source Software (OSS)
 
 ---
